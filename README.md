@@ -1,49 +1,54 @@
-# Hi there, I'm Saidi Siragi 👋 
+# Hi, I'm Saidi Siragi 👋
 
-### Full-Stack Software Engineer | Specialized in Distributed Systems & FinTech
-
-I build high-performance, resilient applications with a focus on **Automated Financial Systems** and **Scalable Backend Architectures**. I specialize in bridging the gap between complex financial gateways (M-Pesa, MTN) and seamless user experiences.
-
----
-
-## 🚀 Featured Project: RentHub
-*An end-to-end Property Management SaaS with automated billing.*
-
-- **Distributed Task Processing:** Implemented Celery-based background workers to handle monthly rent generation, overdue penalties, and multi-channel notifications.
-- **Financial Integration:** Built a robust, type-safe integration for **M-Pesa STK Push** and **MTN MoMo**, featuring Redis-backed OAuth caching to optimize API performance and prevent rate-limiting.
-- **Optimized Data Layer:** Eliminated N+1 query bottlenecks using Django's `Prefetch` and `select_related`, reducing dashboard load times by ~80%.
+**Full-Stack Developer · Nairobi, Kenya**  
+I build the backend systems that make money move — APIs, automation, and real-time data.
 
 ---
 
-## 🛠️ Technical Arsenal
+### About me
 
-| **Domain** | **Tools & Technologies** |
-| :--- | :--- |
-| **Backend** | Python (Django, Flask), Node.js, C, Celery (Distributed Tasks) |
-| **Frontend** | JavaScript (ES6+), CSS3, HTML5, Responsive UI Design |
-| **Database** | PostgreSQL, MySQL, MS SQL Server, Redis (Caching) |
-| **DevOps** | Nginx, Vagrant, Git, Linux Server Management |
-| **Automation** | Puppeteer (Web Scraping/Testing) |
+I'm a full-stack developer with **5+ years of experience** specializing in **automated financial systems** and **scalable backend architectures**. I work across the full stack but my deepest expertise is in the backend — designing systems that are reliable, fast, and don't lose money when they fail.
+
+Based in Nairobi, I've built payment integrations for **M-Pesa** and **MTN MoMo**, real-time dashboards, ERP/CRM systems, and AI-powered platforms. I take idempotency and transactional integrity seriously — especially when financial data is involved.
 
 ---
 
-## 🧠 Engineering Philosophy
-- **Idempotency:** Designing systems that can fail and retry without duplicating financial transactions.
-- **Atomic Operations:** Ensuring database integrity through strict transactional control.
-- **Efficiency:** Writing $O(1)$ lookup logic for high-traffic notification dispatchers.
+### What I work with
+
+**Backend**  
+`Python` `Django` `FastAPI` `Celery` `Node.js` `Express` `NestJS`
+
+**Frontend**  
+`React` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS`
+
+**Data & Real-time**  
+`PostgreSQL` `Redis` `MongoDB` `WebSockets` `Socket.IO`
+
+**FinTech & Payments**  
+`M-Pesa` `MTN MoMo` `Stripe` `Web3.js` `Ethers.js`
+
+**DevOps & Cloud**  
+`Docker` `AWS` `Nginx` `GitHub Actions`
 
 ---
 
-## 📈 My Stats & Activity
+### What I actually do
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12siragi&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12siragi&layout=compact&theme=nord&hide=html,css" />
-</p>
+🔧 **Backend systems** — REST & GraphQL APIs, background workers, job queues, rate limiting, auth flows  
+💳 **FinTech integrations** — M-Pesa STK Push, MTN MoMo, Stripe — idempotent, production-safe  
+⚡ **Real-time systems** — WebSocket & Socket.IO dashboards, live notifications, event-driven pipelines  
+🤖 **Automation & AI** — Celery task processing, AI-powered features with Gemini & LLMs
 
 ---
 
-## 📫 Let's Connect
-- **Email:** siragisaidi218@gmail.com
-- **X/Twitter:** [@saidisiragi](https://twitter.com/saidisiragi)
-- **LinkedIn:** [Your Profile Link]
+### GitHub stats
+
+![Saidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=12siragi&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12siragi&layout=compact&theme=nord&hide=html,css)
+
+---
+
+### Let's connect
+
+📧 siragisaidi218@gmail.com  
+💼 [LinkedIn](#) · [Portfolio](https://pingchart.vercel.app) · [Twitter/X](https://twitter.com/saidisiragi)
