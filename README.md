@@ -1,54 +1,51 @@
-# Hi, I'm Saidi Siragi 👋
+# Hi, I'm Saidi Siragi 👋 
+### Full-Stack Software Engineer | FinTech & Distributed Systems Specialist
 
-**Full-Stack Developer · Nairobi, Kenya**  
-I build the backend systems that make money move — APIs, automation, and real-time data.
-
----
-
-### About me
-
-I'm a full-stack developer with **5+ years of experience** specializing in **automated financial systems** and **scalable backend architectures**. I work across the full stack but my deepest expertise is in the backend — designing systems that are reliable, fast, and don't lose money when they fail.
-
-Based in Nairobi, I've built payment integrations for **M-Pesa** and **MTN MoMo**, real-time dashboards, ERP/CRM systems, and AI-powered platforms. I take idempotency and transactional integrity seriously — especially when financial data is involved.
+I build high-concurrency, automated financial platforms with a focus on **Clean Architecture**, **Fail-Safe Integrations**, and **System Reliability**. I specialize in bridging the gap between complex payment gateways and seamless user experiences.
 
 ---
 
-### What I work with
+## 🚀 Featured Work: RentHub SaaS
+*A production-grade Property Management system built for the African market.*
 
-**Backend**  
-`Python` `Django` `FastAPI` `Celery` `Node.js` `Express` `NestJS`
-
-**Frontend**  
-`React` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS`
-
-**Data & Real-time**  
-`PostgreSQL` `Redis` `MongoDB` `WebSockets` `Socket.IO`
-
-**FinTech & Payments**  
-`M-Pesa` `MTN MoMo` `Stripe` `Web3.js` `Ethers.js`
-
-**DevOps & Cloud**  
-`Docker` `AWS` `Nginx` `GitHub Actions`
+- **Financial Engineering:** Architected a type-safe integration for **M-Pesa (STK/B2C)** and **MTN MoMo**, featuring Redis-backed OAuth caching to prevent API throttling.
+- **Background Orchestration:** Utilized **Celery & Redis** to automate monthly billing cycles, late-fee calculations, and multi-channel notifications (WhatsApp/Email).
+- **Performance Optimization:** Eliminated N+1 query bottlenecks using Django `Prefetch` and `select_related`, ensuring dashboard latency stays under 200ms even with thousands of records.
 
 ---
 
-### What I actually do
+## 🛠️ Technical Arsenal
 
-🔧 **Backend systems** — REST & GraphQL APIs, background workers, job queues, rate limiting, auth flows  
-💳 **FinTech integrations** — M-Pesa STK Push, MTN MoMo, Stripe — idempotent, production-safe  
-⚡ **Real-time systems** — WebSocket & Socket.IO dashboards, live notifications, event-driven pipelines  
-🤖 **Automation & AI** — Celery task processing, AI-powered features with Gemini & LLMs
-
----
-
-### GitHub stats
-
-![Saidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=12siragi&show_icons=true&theme=nord&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12siragi&layout=compact&theme=nord&hide=html,css)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | Python (Django, Flask), Node.js, C, Celery |
+| **Frontend** | JavaScript (ES6+), React, Tailwind CSS, Modern UI/UX |
+| **Database** | PostgreSQL, MySQL, Redis (Caching/Message Broker) |
+| **Infrastructure** | Nginx, Docker, Git, Linux (Ubuntu/Debian) |
+| **Automation** | Puppeteer, Cron Scheduling, Shell Scripting |
 
 ---
 
-### Let's connect
+## 🧠 Engineering Principles
+- **Idempotent Logic:** Ensuring financial tasks can retry safely without duplicating transactions.
+- **Atomic Reliability:** Using database transactions to guarantee "all-or-nothing" data integrity.
+- **Efficiency First:** Optimizing repetition points to keep $O(n)$ loops from slowing down the system.
 
-📧 siragisaidi218@gmail.com  
-💼 [LinkedIn](#) · [Portfolio](https://pingchart.vercel.app) · [Twitter/X](https://twitter.com/saidisiragi)
+---
+
+## 📈 My Stats & Activity
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12siragi&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12siragi&layout=compact&theme=nord&hide=html,css" />
+</p>
+
+---
+
+## 📫 Connect with me
+- **Email:** [siragisaidi218@gmail.com](mailto:siragisaidi218@gmail.com)
+- **Twitter:** [@saidisiragi](https://twitter.com/saidisiragi)
+- **LinkedIn:** [Your LinkedIn Profile Link Here]
+
+---
+<p align="center">"Code is read much more often than it is written."</p>
